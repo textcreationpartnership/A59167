@@ -1,0 +1,1604 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucius Annæus Seneca, his first book of clemency written to Nero Cæsar.</title>
+            <title>De clementia. English. 1653</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59167</idno>
+            <idno type="STC">Wing S2510</idno>
+            <idno type="STC">ESTC R37363</idno>
+            <idno type="EEBO-CITATION">16412023</idno>
+            <idno type="OCLC">ocm 16412023</idno>
+            <idno type="VID">105366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lucius Annæus Seneca, his first book of clemency written to Nero Cæsar.</title>
+                  <title>De clementia. English. 1653</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+               </titleStmt>
+               <extent>[4], 43 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLIII [1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nero, --  Emperor of Rome, 37-68.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105366:1"/>
+            <pb facs="tcp:105366:1"/>
+            <p>LUCIUS ANNAEUS SENECA, HIS FIRST BOOK OF CLEMENCY, Written to <hi>NERO CAESAR.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper, MDCLIII.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105366:2" rendition="simple:additions"/>
+            <pb facs="tcp:105366:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Est thou at firſt ſight ſhouldſt tax the Authour of flattery, in magnifying the <hi>Clemency</hi> of <hi>Nero,</hi> the worſt of Tyrants; know, this Tract was written about the beginning of his Reigne, who while he hearkened to the Ad<g ref="char:EOLhyphen"/>vice and Counſell of <hi>Seneca,</hi> once his Tutor, merited this praiſe, as appears by that <hi>Quinquennium Nero<g ref="char:EOLhyphen"/>nis,</hi> the firſt five years of his Government, ſo much celebrated: as alſo by that paſſage between him and <hi>Burrus</hi> recorded by <hi>Se<g ref="char:EOLhyphen"/>neca</hi> and <hi>Suetonius,</hi> when after many delayes being to ſigne a Warrant for the Execution of ſome Offendors; be cryed out, <hi>O that I could not write!</hi> Though afterwards (ſuch a change there was in him) hearing that vulgar Greeke verſe repeated, which <hi>Tyberius</hi> had ſo often in his mouth: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, when I dye let the Earth be ſet on fire; nay, while I live ſaid <hi>Nero.</hi> But whether <hi>Seneca</hi> ſuſpected that change or no, it is evident he omitted no endeavour either to confirm him, or elſe to make him aſham'd to loſe that vertue, for which he was ſo much extoll'd. And queſtionleſſe had he not thrown off not only all vertue, but whole Man; the very re<g ref="char:EOLhyphen"/>membrance of this Booke would have made him ſpare the Au<g ref="char:EOLhyphen"/>thour. But it is conceiv'd, the reverence of his life did too much
+<pb facs="tcp:105366:3"/>check the reſolved wickedneſſe of the Emperour. And although the preſent Tranſlator may ſeem <hi>actum agere</hi> in making <hi>Se<g ref="char:EOLhyphen"/>enca</hi> Engliſh: yet perhaps thou wilt finde he hath rendred him more vigorous, and more like himſelfe in his originall; but certainly he hath made him more thine by an eaſie retention of his various and fluent ſentences in thy memory, through the harmony of Verſe. Read therefore and injoy him; for as <hi>Lip<g ref="char:EOLhyphen"/>ſius</hi> his chief Illuſtrator ſayes, <hi>He is in a ready way to good<g ref="char:EOLhyphen"/>neſſe who hath begun to love</hi> Seneca.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105366:3"/>
+            <head>
+               <hi>L<g ref="char:V">Ʋ</g>CI<g ref="char:V">Ʋ</g>S ANNAE<g ref="char:V">Ʋ</g>S SENECA</hi> His Firſt Book, of <hi>CLEMENCY,</hi> written to <hi>Nero Caeſar.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">I</seg> Nero Caeſar,</hi> have reſolv'd to write</l>
+               <l>Of Clemency: to offer to thy ſight</l>
+               <l>A Looking-glaſs, where thou thy ſelfe mayſt view,</l>
+               <l>And reap the greateſt joy that man ere knew.</l>
+               <l>For though it be the true fruit of good deeds</l>
+               <l>To know w'have done them, and that vertue needs</l>
+               <l>No praiſe but from it ſelf: yet thoughts oft ſpent</l>
+               <l>On a good conſcience yeild no ſmall content;</l>
+               <l>And then to caſt thine eyes upon the lewd,</l>
+               <l>Contentious, vile, pernicious multitude,</l>
+               <l>Which if at length it ſhould caſt off this yoke,</l>
+               <l>To mutuall bane each other would provoke:</l>
+               <l>And ſeriouſly within thy ſelf to ſay:</l>
+               <l>The gods have cull'd me out the world to ſway.</l>
+               <l>As their Vice-gerent: at my ſole command</l>
+               <l>Both life and death, and all mens fortunes ſtand:</l>
+               <l>The fate of things depends on my decree,</l>
+               <l>Kingdoms receive their joy and griefe from me.</l>
+               <pb n="2" facs="tcp:105366:4"/>
+               <l> No country flouriſhes but by my ſmile.</l>
+               <l>Theſe numerous Legions, which are quiet while</l>
+               <l>My peace reſtraines them, at my beck ſhall fight:</l>
+               <l>What Nations ſhall be ruinate dquite,</l>
+               <l>And what tranſplanted, what be free'd, what bound,</l>
+               <l>What Kings ſhall be led captive, and what crown'd,</l>
+               <l>What Cities built, what ras'd, belongs alone</l>
+               <l>To my tranſcendent juriſdiction.</l>
+               <l>In this ſo great a power, my wrath nere bent,</l>
+               <l>My will to any unjuſt puniſhment;</l>
+               <l>No youthful boldneſs, nor raſh inſolence,</l>
+               <l>That provokes patient minds, could mine incenſe:</l>
+               <l>Nor have I ſought, like moſt great Kings, my name</l>
+               <l>T' advance by fear, and gain a dreadfull fame,</l>
+               <l>My ſword lies ſheath'd, or rather bound up ſtill,</l>
+               <l>I have forborne the meaneſt blood to ſpill,</l>
+               <l>Men though they want abilities, are when</l>
+               <l>They come to me, welcome, becauſe they are men,</l>
+               <l>Rigour's ſuppreſt, but mercy ſtands prepar'd:</l>
+               <l>I keep upon my ſelfe ſo ſtrict a guard,</l>
+               <l>As to the Laws I an account ſhould give,</l>
+               <l>Which would lie dead, but that by me they live;</l>
+               <l>Some for their youth, ſome for their age I ſpare:</l>
+               <l>For th'honour of their place ſome pittied are,</l>
+               <l>Some for their low condition: when I ſinde</l>
+               <l>There can no other reaſon be aſſign'd,</l>
+               <l>Why I compaſſion ſhould be mov'd to take.</l>
+               <l>I do it then at leaſt for mine own ſake.</l>
+               <l>Should the immortall gods require this day</l>
+               <l>Th' account for all man-kinde, I would obay.</l>
+               <l>This, <hi>Caeſar,</hi> may with boldneſs be aver'd</l>
+               <l>That of all things thy birth-right hath confer'd,</l>
+               <pb n="3" facs="tcp:105366:4"/>
+               <l> Upon thy truſt, and ſafe protection,</l>
+               <l>The Common-wealth through thee hath not loſt one,</l>
+               <l>Either by force, or fraud, thou haſt acquir'd</l>
+               <l>What ſcarſe an other Prince hath yet deſir'd,</l>
+               <l>The rareſt of all vertues, innocence.</l>
+               <l>Nor haſt thou laboured without recompence:</l>
+               <l>For this thy great and matchleſs worth hath found</l>
+               <l>Gratefull eſteemers. So our thanks abound:</l>
+               <l>That no one man, could to an other come</l>
+               <l>More wiſht for, then thou to the people of <hi>Rome,</hi>
+               </l>
+               <l>Their great and laſting good. But loe thou haſt</l>
+               <l>Upon thy ſelfe a mighty burthen caſt,</l>
+               <l>For few ſpeak now of holy <hi>Auguſtus</hi> reigne,</l>
+               <l>Or of <hi>Tiberius</hi> his firſt times: Tis vaine;</l>
+               <l>To ſeek for an example any where</l>
+               <l>But in thy ſelfe: we have a full taſt there</l>
+               <l>Of what we may expect. Yet this were hard,</l>
+               <l>If hereunto thou wert not firſt prepar'd</l>
+               <l>By native goodneſs; no man hath ſuſtaind</l>
+               <l>A borrow'd perſon long; things which are faind</l>
+               <l>Returne to their firſt habit: what hath grown</l>
+               <l>From truth, and, as I may ſo ſay, our owne</l>
+               <l>Well-grounded root, will gather ſtrength by time,</l>
+               <l>And by degrees to more perfection clime.</l>
+               <l>The <hi>Romane</hi> people thought they under went</l>
+               <l>A mighty hazard, ere they knew the bent</l>
+               <l>Of ſuch a noble ſpirit we now are</l>
+               <l>In full injoyment of our publike praire.</l>
+               <l>Nor can we doubt, thou't e're thy ſelfe forget;</l>
+               <l>For though too much felicity does whet</l>
+               <l>Our appetites to more: and though our mind</l>
+               <l>Is not ſo temp'rate, as to be confin'd</l>
+               <pb n="4" facs="tcp:105366:5"/>
+               <l> To any preſent good, but will proceed</l>
+               <l>From great to greater things: and that we feed</l>
+               <l>Upon new hopes, when we have gotten more</l>
+               <l>Than could by us be hoped for before:</l>
+               <l>Yet all thy ſubjects joyntly do profeſs,</l>
+               <l>To take ſuch pleaſure in their happineſs,</l>
+               <l>That they for nothing do ſo much contend,</l>
+               <l>As that their happineſs may have no end.</l>
+               <l>To which profeſſion (though but ſeldom made</l>
+               <l>By any) theſe things chiefly them perſwade:</l>
+               <l>The plenteous peace that they enjoy by thee:</l>
+               <l>And juſtice plac'd above all injury.</l>
+               <l>The bleſſedneſs of ſuch a Government,</l>
+               <l>Where liberty is in its full extent:</l>
+               <l>And is not curb'd in any thing, unleſs</l>
+               <l>In what would ruine them, licentiouſneſs.</l>
+               <l>But that wich does to admiration flow,</l>
+               <l>Is thy moſt equall Clemency: for though</l>
+               <l>All other benefits which men poſſeſs,</l>
+               <l>Are as their fortunes make them, more or leſs:</l>
+               <l>Yet from thy mercy all, expect the ſame.</l>
+               <l>Nor is there any that can lay ſuch claime</l>
+               <l>To innocence, but he is glad to ſee</l>
+               <l>Mercy prepar'd, him from his faults to free.</l>
+               <l>However there be ſome who do maintain,</l>
+               <l>That bad men only do by mercy gaine:</l>
+               <l>Becauſe it is not properly extended</l>
+               <l>To any, but to thoſe who have offended:</l>
+               <l>And that among all vertues, this alone</l>
+               <l>Is that, which is to guiltleſs men unknown:</l>
+               <l>But yet as phyſick, though it be intended</l>
+               <l>But for the ſick, is nere the leſs commended</l>
+               <pb n="5" facs="tcp:105366:5"/>
+               <l> By ſuch as are in health: ſo Clemency,</l>
+               <l>Though it be ſought by them on whom does lie</l>
+               <l>A guilt, yet it is had in reverence</l>
+               <l>By thoſe who have committed no offence.</l>
+               <l>And guiltleſs men themſelves nay ſtand in need</l>
+               <l>Of mercy; ſince ſome acts, that do proceed</l>
+               <l>From fortune, are made faults: and we may ſee</l>
+               <l>Vertue as well as innocence ſet free</l>
+               <l>By mercy: for in lewd and wicked times,</l>
+               <l>Praiſe-worthy deeds are puniſhed as crimes:</l>
+               <l>Beſides moſt men may become innocent;</l>
+               <l>Yet tis not fit to forbear puniſhment</l>
+               <l>To all: becauſe confuſion, and a ſource</l>
+               <l>Of vices follow, when we uſe remorſe</l>
+               <l>To good and bad: and therefore it is fit</l>
+               <l>To make a difference, between a wit,</l>
+               <l>Thats curable, and that which is paſt cure,</l>
+               <l>In pardoning, this rule is alwaies ſure:</l>
+               <l>Neither to be too rigid, nor remiſs;</l>
+               <l>Becauſe no leſs a cruelty it is,</l>
+               <l>To pardon all, then none: we muſt obſerve</l>
+               <l>A mean: but yet becauſe w'are apt to ſwerve,</l>
+               <l>It is the nobleſt error to incline</l>
+               <l>To mercie, when we paſs the equall line.</l>
+               <l>But for the preſent, theſe I'le lay aſide:</l>
+               <l>And the whole matter in three parts divide.</l>
+               <l>The firſt ſhall be a preface to the reſt:</l>
+               <l>The ſecond ſhall the nature manifeſt,</l>
+               <l>And qualitie of mercy: for whereas</l>
+               <l>Some vices do for vertues often paſs,</l>
+               <l>They cannot be diſtinguiſh'd, unleſs</l>
+               <l>We by ſome markes the difference expreſs.</l>
+               <pb n="6" facs="tcp:105366:6"/>
+               <l> In the third place we will inquire the way</l>
+               <l>To get this vertue, and to make it ſtay,</l>
+               <l>And then convert it to our preſent uſe,</l>
+               <l>For this is certaine, that we cannot chooſe</l>
+               <l>Among all ſorts of vertues any one,</l>
+               <l>That more becomes a man: for there is none</l>
+               <l>More ſweet, and more humane: and is not ſo</l>
+               <l>To us alone, who have been brought to know</l>
+               <l>That man is found a ſociable creature,</l>
+               <l>And molded for a common good by nature;</l>
+               <l>But even by thoſe who give up man to pleaſure,</l>
+               <l>And all their words and actions ſeem to meaſure</l>
+               <l>By their own profit. For if we deſire</l>
+               <l>Repoſe and reſt, this vertue will acquire</l>
+               <l>That which we ſeek; becauſe it ever ſtands,</l>
+               <l>For peace and meekneſs, and binds up our hands,</l>
+               <l>But yet ther's none whom mercy ſo much graces,</l>
+               <l>As Kings and Princes: for in publike places,</l>
+               <l>Power is a glory, and an ornament;</l>
+               <l>Provided always that it be intent</l>
+               <l>Upon the peoples ſafety, but if power</l>
+               <l>Be hurtfull, like a plague it will devour.</l>
+               <l>No accident his greatneſs can remove,</l>
+               <l>Whom all men do confeſs to be above,</l>
+               <l>As well as for them: and whoſe diligence</l>
+               <l>They ever finde awake for the defence</l>
+               <l>Of every one, no leſs then the whole State;</l>
+               <l>Who when he comes abroad, is not with hate,</l>
+               <l>Shun'd like ſome ſavage beaſt rouſd from her den,</l>
+               <l>But gaz'd upon by multitudes of men</l>
+               <l>Like a propitious ſtar whoſe ſubjects ſtrive,</l>
+               <l>(That by their death he may be kept alive)</l>
+               <pb n="7" facs="tcp:105366:6" rendition="simple:additions"/>
+               <l> To ruſh between him and a Traitors ſword,</l>
+               <l>And that their conſtant watchings may afford</l>
+               <l>His perſon ſecure reſt, they ſtand about</l>
+               <l>His gates by night, to keep all danger out.</l>
+               <l>Nor is it without reaſon, that ſuch care</l>
+               <l>Is uſed by men, and nations every where,</l>
+               <l>To guard their Kings. Tis not a ſelfe-neglect</l>
+               <l>Or folly, that ſuch multitudes protect,</l>
+               <l>And with deſtruction of their own, uphold</l>
+               <l>One head, and that perhaps both weake, and old:</l>
+               <l>For as the body is ſubſervient</l>
+               <l>Unto the ſoul, and is more eminent</l>
+               <l>By that, and more conſpicuous, and though</l>
+               <l>The ſoule lies cloſe, but where we do not know:</l>
+               <l>Yet do the hands, and feet, and eyes conſent</l>
+               <l>To ſerve her: and the skin's her muniment,</l>
+               <l>At her command we now lie down, then run;</l>
+               <l>And if that ſhee be covetous, we ſhun</l>
+               <l>No ſea adventures; if ambitious,</l>
+               <l>Tis then a brave and glorious act for us,</l>
+               <l>To thruſt our hands into the flaming ſire,</l>
+               <l>Or leap into a gulf if ſhee require:</l>
+               <l>Even ſo this vaſt and numerous multitude,</l>
+               <l>Which does within it but one ſoul include,</l>
+               <l>Is dayly guided by that ſpirit alone,</l>
+               <l>And governd by the reaſon of that one:</l>
+               <l>And ſhould <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t counſell be forborn, would ſtraite</l>
+               <l>Be ruind and diſtroye'd with it's own weight.</l>
+               <l>And therefore their own ſafety men regard</l>
+               <l>When in the camp ſo many ſtand prepar'd:</l>
+               <l>Each ſtriving for the front, offers his breſt</l>
+               <l>To wounds, leſt th' Emprours ſtandard be diſtreſt.</l>
+               <pb n="8" facs="tcp:105366:7" rendition="simple:additions"/>
+               <l> He is the ciment that unites the State:</l>
+               <l>The vitall breath that does inanimate</l>
+               <l>So many millions: and without it, they</l>
+               <l>Would be a mutuall burthen, and a pray.</l>
+               <l>
+                  <hi>While the King lives, the people do accord:</hi>
+               </l>
+               <l>
+                  <hi>But when he dies, they live but by the ſword.</hi>
+               </l>
+               <l>That accident will end the <hi>Romanes</hi> peace,</l>
+               <l>And make ſo great a Nations fortune ceaſe.</l>
+               <l>The people will remaine without that feare</l>
+               <l>So long, as they the bridle know to beare:</l>
+               <l>Which if they once ſhall break, they will be ſhie</l>
+               <l>To take't againe, though chance did throw it by;</l>
+               <l>The bond and tie of this great government</l>
+               <l>Will into many peices ſoone be rent:</l>
+               <l>And <hi>Rome</hi> will finde, by wanting that direction,</l>
+               <l>An equall end of rule, and of ſubjection.</l>
+               <l>It is not any wonder then that Kings</l>
+               <l>And Princes, and each Magiſtrate that brings</l>
+               <l>Peace to State, ſhould be belov'd above</l>
+               <l>Our common parents, whom we dearly love:</l>
+               <l>For if the publike be by honeſt men</l>
+               <l>Priz'd 'bove their private, it will follow then,</l>
+               <l>That he on whom the Common-wealth relies,</l>
+               <l>Should ever be moſt pretious in our eyes.</l>
+               <l>
+                  <hi>Caeſar</hi> had heretofore within the State</l>
+               <l>So wrapt himſelfe, that but to ſeperate</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was to deſtroy them both. As his good</l>
+               <l>Lay in their ſtrength, ſo in a chiefe theirs ſtood.</l>
+               <l>But loe this ſpeach is longer than I meant,</l>
+               <l>And yet I'm ſure, it meets with our intent.</l>
+               <l>For if, as it appears, thou art the ſoul,</l>
+               <l>The State the body, then without controule,</l>
+               <pb n="9" facs="tcp:105366:7" rendition="simple:additions"/>
+               <l> Mercy is needfull: for while thou doeſt ſpare</l>
+               <l>Others, thou ſpar'ſt thy ſelfe. Then take thou care</l>
+               <l>Even of ill ſubjects, as of limbs decay'd:</l>
+               <l>And whenſoever reaſon ſhall perſwade</l>
+               <l>To draw ſome blood, let the inciſion be</l>
+               <l>No more then needs. Thus Clemency, we ſee,</l>
+               <l>Is naturall to all men: but renoun'd</l>
+               <l>In Princes, through whoſe powre it finds more ground</l>
+               <l>To work on: private rage extends not far,</l>
+               <l>The cruelty of Princes is a war.</l>
+               <l>For though all vertues do agree, and none</l>
+               <l>Is as the better, and more honeſt known:</l>
+               <l>Yet ſome may better with ſome perſons ſute;</l>
+               <l>Courage becomes even thoſe, whoſe low repute,</l>
+               <l>Hath nothing under it: for what's more brave,</l>
+               <l>Than adverſe fortune in contempt to have?</l>
+               <l>But yet this courage hath a larger place</l>
+               <l>In a high fortune, and receaves more grace</l>
+               <l>From Courts than Cottages. Mercy appeares</l>
+               <l>In no houſe, but it baniſhes all fears:</l>
+               <l>Yet tis more rare, and therefore more admired</l>
+               <l>In Princes Courts: for what can be deſired</l>
+               <l>With greater wonderm<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, than to behold</l>
+               <l>A man, whoſe wrath is not to be controld,</l>
+               <l>To whoſe grave ſentence they forthwith ſubmit</l>
+               <l>That be condemn'd, and dare not queſtion it?</l>
+               <l>And who if furious paſſion him have ſeas'd</l>
+               <l>May not intreated be, to be appeas'd:</l>
+               <l>To ſee, I ſay, this man himſelfe arreſt,</l>
+               <l>And his vaſt power convert into the beſt,</l>
+               <l>Saying within himſelfe, to kill all have</l>
+               <l>Power without law, but only I to ſave.</l>
+               <pb n="10" facs="tcp:105366:8" rendition="simple:additions"/>
+               <l> Great fortune a great courage does require:</l>
+               <l>And if that flie not full as high or higher</l>
+               <l>Than ſhe, it brings her alſo to the ground;</l>
+               <l>This property in greatneſſe ſhould be found,</l>
+               <l>To be delightfull, gentle, and to ſlight</l>
+               <l>Reproaches, and offences as too light</l>
+               <l>To be regarded, or look't down upon.</l>
+               <l>Tis womaniſh, in paſſion to run on:</l>
+               <l>And tis the property of beaſts, that are</l>
+               <l>Not generous, with cruelty to tear</l>
+               <l>Such as lie on the ground. Whereas the rage</l>
+               <l>Of Elephants, and Lions will aſſwage,</l>
+               <l>When once they conquer. But th' ignoble race</l>
+               <l>Of Bears, and VVolves will dwell upon the place.</l>
+               <l>Feirce and unbounded anger ill befits</l>
+               <l>A King: for he not much above him ſits,</l>
+               <l>Whom he his equall makes through wrathfull ſtrife:</l>
+               <l>But if to men obnoxious he gives life,</l>
+               <l>Or reſtores honour, then he does a thing,</l>
+               <l>That appertaines to none but to a King.</l>
+               <l>Life may be taken from Superiours,</l>
+               <l>But never given but to Inferiours.</l>
+               <l>Tis proper to great Potentates to ſave,</l>
+               <l>Which never can more admiration have,</l>
+               <l>Then when they may; like gods, great favours give,</l>
+               <l>By whom we all both good and bad do live.</l>
+               <l>Then let a Prince, who ſhould reain a minde</l>
+               <l>Like to the gods, be affable and kind,</l>
+               <l>To uſefull and good ſubjects: and include</l>
+               <l>Others within the numerous multitude.</l>
+               <l>Let him rejoyce that ſome live in the State,</l>
+               <l>And let him alſo others tollerate.</l>
+               <pb n="11" facs="tcp:105366:8" rendition="simple:additions"/>
+               <l> Think how this City, in whoſe ſpatious ſtreets</l>
+               <l>Such a continued throng of people meets;</l>
+               <l>Preſſing each other, when ſome lets retard</l>
+               <l>Their paſſage; like a torrents courſe that's bard:</l>
+               <l>Wherein there is requir'd ſufficient way</l>
+               <l>For three great Theaters, filed every day:</l>
+               <l>And where there is as much proviſion ſpent,</l>
+               <l>As out of the whole Empire can be ſent;</l>
+               <l>Would be diſtreſt, and brought to deſolation,</l>
+               <l>If only they were left of the whole Nation,</l>
+               <l>Whom a remorſleſſe Judge thought fit to ſpare:</l>
+               <l>What inſolent inquiſitors will dare,</l>
+               <l>T' abide that Law, which they themſelves exact?</l>
+               <l>Are not accuſers guilty of the fact</l>
+               <l>Which they on others lay? we ever finde</l>
+               <l>Thoſe men to pardon others leaſt inclin'd,</l>
+               <l>Who have moſt needed pardon. Let's confeſſe</l>
+               <l>We have offended all, ſome more, ſome leſſe;</l>
+               <l>Some of ſet-purpoſe, ſome by chance incited,</l>
+               <l>Or by an others wickedneſſe invited:</l>
+               <l>Some from their honeſt purpoſes have ſtarted</l>
+               <l>And 'gainſt their wills from innocence have parted.</l>
+               <l>Nor can they only ſay, they did offend,</l>
+               <l>But muſt confeſſe, they ſhall even to the end.</l>
+               <l>And if there any be who have ſo purg'd</l>
+               <l>Their minds, that they by nothing can be urg'd</l>
+               <l>To commit faults, they certainly have gain'd</l>
+               <l>That innocence, by being often ſtain'd.</l>
+               <l>But ſeing we the gods have mention'd, I</l>
+               <l>That patterne to a prince may well apply:</l>
+               <l>Who to his ſubjects ſhould be ſuch, as he</l>
+               <l>Would willingly the gods to him ſhould be.</l>
+               <pb n="12" facs="tcp:105366:9" rendition="simple:additions"/>
+               <l> Should then the gods take ſo ſevere a courſe,</l>
+               <l>As not to be intreated to remorſe,</l>
+               <l>What other power could any King protect,</l>
+               <l>But that th' Inſpector would his limbs collect?</l>
+               <l>But if thoſe gentle powers can be content.</l>
+               <l>Not ſuddainly t' exact the puniſhment,</l>
+               <l>Of Princes crimes with thunder, Is it not</l>
+               <l>More juſt that they who have dominion got</l>
+               <l>Ore other men, ſhould uſe with gentleneſſe,</l>
+               <l>Their ſoveraignty, and cheerfully confeſſe,</l>
+               <l>The heavens to ſhew more gracefull in a bright</l>
+               <l>And Sun-ſhine day, than when no other light</l>
+               <l>Appears, but frequent flaſhes from the Skies,</l>
+               <l>VVhen all the world in a deep horror lies?</l>
+               <l>And certainly th' aſpect of a mild State</l>
+               <l>The face of a clear skie does imitate.</l>
+               <l>A cruell Reigne is ever troublſome,</l>
+               <l>And full of darkneſſe, under which none come</l>
+               <l>But with a trembling and affrighted heart:</l>
+               <l>And he that cauſes all, will have his part.</l>
+               <l>A private perſon though he be involv'd</l>
+               <l>In ſtiffe revenge, is eaſily abſolv'd,</l>
+               <l>For fearing to be hurt, he may reſent</l>
+               <l>A wrong, or elſe p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rhaps he would diſgrace prevent.</l>
+               <l>For it does rather cowardice appear,</l>
+               <l>Then Clemency, an injury to bear.</l>
+               <l>But he at whoſe command, revenge does lie,</l>
+               <l>Is mercifull, if he will paſſe it by.</l>
+               <l>Men in mean place may bend their fiſts, and may</l>
+               <l>Wrangle and braule, and openly give way</l>
+               <l>To anger. Among equalls ſtrokes paſs over,</l>
+               <l>But for a King intemp'rance to diſcover;</l>
+               <pb n="13" facs="tcp:105366:9"/>
+               <l> In un-beſeeming words, or to expreſſe</l>
+               <l>Paſſion in cries, makes Majeſty goe leſs.</l>
+               <l>Thou thinkſt it much that the free talke that's uſ'd</l>
+               <l>By common people, is to Kings refus'd:</l>
+               <l>And ſuch reſtraint, thou ſayſt, ſeemes to exclude</l>
+               <l>Empire, and rather ſlavery obtrude.</l>
+               <l>But is not this by tryall found to bee,</l>
+               <l>A ſlavery to us, and not to thee?</l>
+               <l>Their quality is diffrent that both ſhrowd</l>
+               <l>Themſelves, and do continue in the crowd:</l>
+               <l>Whoſe vertues ſtruggle long ere they be known,</l>
+               <l>And into darkneſſe are their vices thrown.</l>
+               <l>Thy words and deeds to rumor open are.</l>
+               <l>And therefore there is none ſhould take more care</l>
+               <l>What fame they have, than they whoſe fame will fill</l>
+               <l>The ſpacious world, let it be what it will:</l>
+               <l>How many things are not permitted thee,</l>
+               <l>Which by thy favour we enjoy? 'Tis free</l>
+               <l>For me through every ſtreet to walke alone,</l>
+               <l>And need not fear, though waited on by none:</l>
+               <l>Although at home no armes I do provide,</l>
+               <l>Nor any ſword be hanging at my ſide:</l>
+               <l>Thou in this time of peace, which thou doſt give</l>
+               <l>To us, and to the world, muſt armed live.</l>
+               <l>And canſt at no time from thy fortune part,</l>
+               <l>Which thee beſieges, for where ere thou art</l>
+               <l>Pleas'd to remove, that followes with a traine.</l>
+               <l>And great men juſtly may of this complaine,</l>
+               <l>As of their higheſt ſervitude, that they</l>
+               <l>Cannot deſcend, but where they are, muſt ſtay.</l>
+               <l>But this neceſſity no leſſe does bind</l>
+               <l>The gods then thee, who are to Heaven confind.</l>
+               <pb n="14" facs="tcp:105366:10" rendition="simple:additions"/>
+               <l> And to deſcend no more permitted bee,</l>
+               <l>By fates ſtrict law, then it is ſafe for thee.</l>
+               <l>Thou to thy height art fixt. Our motions few</l>
+               <l>Obſerve, we goe, returne, our clothes renew</l>
+               <l>Without a publike notice what is done,</l>
+               <l>Thou canſt no more be hidden then the Sun.</l>
+               <l>Thy perſon alwayes is with ſhining rayes</l>
+               <l>Invirond, upon which all people gaze.</l>
+               <l>Thinkſt thou that thou com'ſt forth? no thou doſt riſe.</l>
+               <l>No ſooner canſt thou ſpeak but thy voyce flies</l>
+               <l>Through every Country. Thou no ſooner art</l>
+               <l>To anger mov'd, but every thing does ſtart.</l>
+               <l>When thy proſcription againſt one comes out,</l>
+               <l>There is a preſent trembling round abo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t;</l>
+               <l>As thunder falls but to a few mens harme,</l>
+               <l>Yet to the fear of many, ſo the arme</l>
+               <l>Of a chaſtiſing power, with terror awes,</l>
+               <l>More then with ſtrokes; and not without a cauſe.</l>
+               <l>For he that can do all, is lookt upon,</l>
+               <l>As what he may doe, not what he hath done.</l>
+               <l>Beſides, much ſuffering private perſons brings</l>
+               <l>To ſuffer more with patience, but Kings</l>
+               <l>By Clemency finde a ſecure defence:</l>
+               <l>For though ſtrict Juſtice ſtops the inſolence</l>
+               <l>Of a few men, yet publike hate it draws,</l>
+               <l>In puniſhments the will, before the cauſe,</l>
+               <l>Should alwayes ceaſe. For otherwiſe as Trees,</l>
+               <l>After th' are prun'd recover by degrees</l>
+               <l>A fair top: and as ſome plants we know,</l>
+               <l>Are often cut, thereby to make them grow:</l>
+               <l>So does a Princes cruelty augment,</l>
+               <l>And not the number of his foes prevent.</l>
+               <pb n="15" facs="tcp:105366:10"/>
+               <l> For parents, children, kindred, friends, ſubſtain</l>
+               <l>The places of thoſe men whom he hath ſlaine.</l>
+               <l>How true this is, ſhall now be underſtood</l>
+               <l>By an example fetch'd from thine own blood.</l>
+               <l>Divine <hi>Auguſtus</hi> was a gentle Prince,</l>
+               <l>If him at leaſt we ſhall conſider ſince</l>
+               <l>He ſwayd alone the Scepter; for tis true,</l>
+               <l>While he with others rul'd, his ſword he drew.</l>
+               <l>And having paſs'd the age of eighteen years,</l>
+               <l>As thou haſt now, he had, as it appeares</l>
+               <l>Suborn'd ſome friends with ſecret armes to lie</l>
+               <l>In wait, t' intrap the Conſul <hi>Anthony:</hi>
+               </l>
+               <l>And had his ſhare in the Triumvirate.</l>
+               <l>But when his age arriv'd beyond the date</l>
+               <l>Of forty years, he, being in <hi>France,</hi> was told,</l>
+               <l>That <hi>Lucius Cinna</hi> a weak man, but bold,</l>
+               <l>Deſign'd his death: the manner, place, and when</l>
+               <l>T' was to be acted, was diſcovered then</l>
+               <l>By one of the confederates. His intent</l>
+               <l>Was to inflict on him ſharp puniſhment,</l>
+               <l>But with his friends conſulting what was beſt;</l>
+               <l>He could not in the night take any reſt,</l>
+               <l>For thinking, that he was to ruine quite</l>
+               <l>A noble youth, and but for that upright,</l>
+               <l>Nephew to <hi>Pompey;</hi> ſo loth was he now,</l>
+               <l>T' have one man die: who could before avow</l>
+               <l>With <hi>Anthony</hi> at ſupper time a liſt</l>
+               <l>Of dire proſcriptions. Thus did he perſiſt</l>
+               <l>In ſad and various thoughts. What then? Shall I</l>
+               <l>Suffer ſo treacherous an enemie</l>
+               <l>To walk ſecure, while I with cares am fraught?</l>
+               <l>And ſhall not he be puniſh'd that hath ſought</l>
+               <pb n="16" facs="tcp:105366:11"/>
+               <l> Not only to deſtroy but ſacrifice</l>
+               <l>This head (for it was then their joynt advice</l>
+               <l>To ſlay him at the Alter) that in vaine</l>
+               <l>Hath been ſo often threatned with the bane</l>
+               <l>Of civill wars: and having quite allayd</l>
+               <l>So many ſtormes at Land and Sea, hath made</l>
+               <l>Peace through the world: then, having paus'd a while,</l>
+               <l>He ſpake much louder, and did more revile</l>
+               <l>Himſelfe then <hi>Cinna:</hi> wherefore doſt thou live</l>
+               <l>If to ſo many men thy death will give</l>
+               <l>A benefit? what end will there be</l>
+               <l>Of rigour? what of blood? this head, I ſee,</l>
+               <l>Muſt be ſubmitted to young nobles rage,</l>
+               <l>That they againſt it may their ſwords ingage.</l>
+               <l>Life is not ſo much worth, that unleſs I</l>
+               <l>Be now deſtroy'd ſo many men muſt die.</l>
+               <l>But his wife <hi>Livia</hi> interpoſing ſpake</l>
+               <l>Unto him thus: A woman's counſell take:</l>
+               <l>Doe like Phyſitians who are us'd to trie</l>
+               <l>When proper med'cines faile, the contrary.</l>
+               <l>Rigour hath yet ſtood thee in little ſtead:</l>
+               <l>For <hi>Lepidus Salvienus</hi> followed,</l>
+               <l>
+                  <hi>Muraena Lepidus, Muraena</hi> gon,</l>
+               <l>
+                  <hi>Caepio</hi> appear'd, and after him came on</l>
+               <l>
+                  <hi>Egnatius,</hi> for the reſt I need not name,</l>
+               <l>Whoſe very attemps to mention were a ſhame:</l>
+               <l>Be therefore at the length content to try</l>
+               <l>What profit will ariſe from Clemency:</l>
+               <l>And pardon <hi>Lucius Cinna.</hi> He's made ſure:</l>
+               <l>He cannot hurt, he may thy fame ſecure.</l>
+               <l>
+                  <hi>Auguſtus</hi> joyfull that his inward ſtrife</l>
+               <l>Was ſtopt by this good counſell, thankt his wife.</l>
+               <pb n="17" facs="tcp:105366:11"/>
+               <l> And making it ſoon known to all thoſe friends</l>
+               <l>He firſt conſulted, he for <hi>Cinna</hi> ſends:</l>
+               <l>And being come, he makes an other chaire</l>
+               <l>Be ſet for him, bidding the reſt forbeare:</l>
+               <l>
+                  <hi>Cinna</hi> (ſaid he) I do deſire that thou</l>
+               <l>Wilt without interruption here me now:</l>
+               <l>And the mean while not into paſſion break:</l>
+               <l>Thou after ſhall have liberty to ſpeak.</l>
+               <l>When thee I found in armes. not only made,</l>
+               <l>But borne my foe, I did my wrath perſwade</l>
+               <l>To ſave thy life, and thy eſtate reſtore.</l>
+               <l>Nor is there at this day a man, that more</l>
+               <l>Abounds with wealth and happineſs, ſo high,</l>
+               <l>That Conquerors the Conquerd do envy.</l>
+               <l>The Preiſt-hood I at thy requeſt gave thee</l>
+               <l>Omitting thoſe whoſe fathers joyn'd with me</l>
+               <l>In ſeverall wars: and now thou goeſt about</l>
+               <l>To flay me, for my love. When he cry'd out,</l>
+               <l>May ſuch a madneſſe be by me abhord!</l>
+               <l>
+                  <hi>Caeſar</hi> reply'd, <hi>Cinna,</hi> thou breakſt thy word:</l>
+               <l>It was our firſt agreement thou ſhouldſt not</l>
+               <l>Give interruption; thou I ſay doſt plot,</l>
+               <l>To take away my life: he nam'd the place,</l>
+               <l>The day, and the aſſociats, and did trace</l>
+               <l>The whole deſigne; nay he was ſo exact</l>
+               <l>He nam'd the man appointed for the fact.</l>
+               <l>And when he ſaw him daſht, and ſilent, now</l>
+               <l>Through guilt, not promiſe: what, ſaid he, doſt thou</l>
+               <l>Aime at in this? to be made Prince? alas,</l>
+               <l>The Common-wealth is but at an ill paſſe,</l>
+               <l>If only I obſtruct thy way: tis known</l>
+               <l>Thou art not able to ſupport thine own</l>
+               <pb n="18" facs="tcp:105366:12"/>
+               <l> Houſe hold affaires. A man made newly free,</l>
+               <l>In a late private cauſe prevail'd gainſt thee:</l>
+               <l>Can any thing be eaſier then to ſtrive</l>
+               <l>With <hi>Caeſar?</hi> but proceed, if I ſurvive</l>
+               <l>To croſs thy hopes alone. Canſt thou ſuppoſe</l>
+               <l>
+                  <hi>Emilius, Fabius Maximus,</hi> and thoſe</l>
+               <l>Sprung from the <hi>Coſſi</hi> and <hi>Servilii</hi>
+               </l>
+               <l>Will indure thee? ſuch as do not relie</l>
+               <l>On empty names: whom their own worth prefers</l>
+               <l>And are an honour to their Anceſtors?</l>
+               <l>But leſt by rendring his whole ſpeach, I make</l>
+               <l>A volume, know, two houres and more he ſpake,</l>
+               <l>And having ſo inlarg'd the puniſhment</l>
+               <l>With which alone he meant to be content:</l>
+               <l>
+                  <hi>Cinna</hi> ſaid he, I give thee life once more,</l>
+               <l>A Parricide found now, a ſoe before.</l>
+               <l>Let friendſhip between us begin henceforth,</l>
+               <l>Let us contend whether ſhall ſhew moſt worth,</l>
+               <l>I in beſtowing, thou in owing life.</l>
+               <l>He after made him Conſull, and the ſtrife</l>
+               <l>Was that he durſt not ask it: to the end</l>
+               <l>
+                  <hi>Cinna</hi> remaind his true and faithfull friend:</l>
+               <l>And made him his ſole heir. From that time none</l>
+               <l>T' have ploted gainſt <hi>Auguſtus</hi> life was known.</l>
+               <l>Thy great grand fathers father pardoned thoſe</l>
+               <l>Whom he ſubdued; how elſe could he ſuppoſe</l>
+               <l>There would be any left, ore whom to reigne?</l>
+               <l>From the foes party, he did <hi>Saluſt</hi> gain,</l>
+               <l>And the <hi>Cocceians</hi> alſo drew off then,</l>
+               <l>And the <hi>Duillians,</hi> with that band of men,</l>
+               <l>Who in ſo great fidelity perſiſted,</l>
+               <l>That they into his own Life-guard were liſted.</l>
+               <pb n="19" facs="tcp:105366:12"/>
+               <l> Beſide, at that time <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Domitians,</hi>
+               </l>
+               <l>With the <hi>Meſſala's,</hi> and <hi>Aſinians,</hi>
+               </l>
+               <l>The <hi>Ciceronians,</hi> and the flower of <hi>Rome</hi>
+               </l>
+               <l>To his great mercy debters were become.</l>
+               <l>How long did he keep <hi>Lepidus</hi> alive,</l>
+               <l>And him of Princely titles not deprive?</l>
+               <l>From taking the High-Prieſthood he abſtain'd,</l>
+               <l>So long as <hi>Lepidus</hi> in life remaind.</l>
+               <l>For he that purer honour would not ſoile</l>
+               <l>So much, as that it ſhould be cal'd a ſpoyle.</l>
+               <l>This mercy his eſtate and life aſſur'd,</l>
+               <l>And more good will and more eſteem procurd,</l>
+               <l>Although he had not fully laid his hand</l>
+               <l>On <hi>Rome,</hi> which yet had ſtoopt to no command;</l>
+               <l>And at this day preſerves him in ſuch fame,</l>
+               <l>As that no Prince alive the like can clame.</l>
+               <l>For with the gods we ranke him, not becauſe</l>
+               <l>We are hereto enjoyned by the Lawes,</l>
+               <l>But that we ſo believe. And we confeſſe</l>
+               <l>
+                  <hi>Auguſtus</hi> a good Prince, whoſe worthineſs</l>
+               <l>Deſerv'd that attribute, his Countries Farther:</l>
+               <l>For which we can no better reaſon gather,</l>
+               <l>Then that he us'd no cruell puniſhment</l>
+               <l>Gainſt contumelie, which great men reſent</l>
+               <l>Above an injury: that he reproaches ſlighted:</l>
+               <l>And that he thought the puniſhment ſtill lighted</l>
+               <l>Upon himſelf, which he on others laid:</l>
+               <l>And finding th' honour of his houſe betrayd,</l>
+               <l>By his own daughters lewd adulteries,</l>
+               <l>That he could thoſe indignities diſpiſe:</l>
+               <l>And did not only not the adulterers ſlay,</l>
+               <l>But with a ſafe-conduct ſent them away.</l>
+               <pb n="20" facs="tcp:105366:13"/>
+               <l> This is the height of pard'ning, when tis known</l>
+               <l>That there are many would thy anger own,</l>
+               <l>And to pleaſe thee, be willing not to ſpare</l>
+               <l>The blood of thoſe whom thou ſhalt once declare,</l>
+               <l>To be offenders, and yet thou to give</l>
+               <l>Both pardon, and protection to live.</l>
+               <l>Theſe things <hi>Auguſtus</hi> in his age, I finde,</l>
+               <l>Did do, or when he towards age inclin'd.</l>
+               <l>Who in his youth was hot, with anger boyl'd:</l>
+               <l>Whoſe thoughts, from many things he did, recoyl'd.</l>
+               <l>Tween thee and gentle <hi>Auguſtus</hi> none dares make</l>
+               <l>Compariſon for mercy, though he take</l>
+               <l>Th' advantage of his age more than mature;</l>
+               <l>It cannot with thy youth the teſt indure.</l>
+               <l>His mercie and meekneſs often times were try'd:</l>
+               <l>Yet after he the <hi>Achan</hi> ſea had die'd</l>
+               <l>With <hi>Roman</hi> blood: yet after he had loſt</l>
+               <l>His own and other navies on the coaſt</l>
+               <l>Of <hi>Sicilie:</hi> yet after ſo much guilt</l>
+               <l>Of blood, on the <hi>Peruſian</hi> altars ſpilt,</l>
+               <l>And by proſcriptions. This do not I</l>
+               <l>Call mercy, but a weary'd cruelty.</l>
+               <l>Thine is true mercy, <hi>Caeſar,</hi> which began</l>
+               <l>Not from repented cruelty, nor can</l>
+               <l>Be taxed with the ſtaine of civil blood.</l>
+               <l>In ſo great height of power thou haſt made-good</l>
+               <l>Thy temprance, and unſpeakable good will</l>
+               <l>To man; and art not taynted with the ill</l>
+               <l>Of avarice or raſhneſs, or th' example</l>
+               <l>Of former Kings, who on mens necks did trample:</l>
+               <l>And their great power with rigour did dilate.</l>
+               <l>But thou the edge of Empire doſt abate.</l>
+               <pb n="21" facs="tcp:105366:13"/>
+               <l> Thou, <hi>Caeſar,</hi> haſt thy <hi>Rome</hi> unbloody made.</l>
+               <l>And as thou haſt with noble boaſting ſayd,</l>
+               <l>No part of the whole world one drop hath loſt</l>
+               <l>Of humane blood by me: and which is moſt</l>
+               <l>To be admir'd, none ever had command,</l>
+               <l>Or had the ſword put ſooner in his hand:</l>
+               <l>And therefore mercy as well ſafety brings,</l>
+               <l>As great eſteem: and is no leſſe to Kings,</l>
+               <l>Secure than glorious. When they aged die</l>
+               <l>Their Kingdomes come to their poſteritie:</l>
+               <l>The government of Tyrants is both ſhort,</l>
+               <l>And deteſtable. Say then, in what ſort</l>
+               <l>Do Kings and Tyrants differ; for we know</l>
+               <l>Their power is equall, and the ſame in ſhow?</l>
+               <l>A tyrant cruell is out of meer will,</l>
+               <l>A King but through neceſſitie: both kill:</l>
+               <l>The one as oft as publique good requires:</l>
+               <l>Th' other of himſelfe mens deaths deſires.</l>
+               <l>A tyrant differs from a King in deeds</l>
+               <l>And not in name. He that the ſtory reads</l>
+               <l>Of the elder <hi>Dionyſius,</hi> will finde,</l>
+               <l>That he in merrit did not come behind</l>
+               <l>Moſt Kings: And wherefore ſhould he doubt to call</l>
+               <l>
+                  <hi>Sylla</hi> a Tyrant, who his rage let fall</l>
+               <l>When there were no foes left with him to ſtrive,</l>
+               <l>Whom he of life and fortune might deprive?</l>
+               <l>And though he the Dictatorſhip lay'd down,</l>
+               <l>And like a private man reſum'd the gown,</l>
+               <l>Yet what fierce tyrant ever was ſo curſt,</l>
+               <l>Or ere drank humane blood with ſo much thirſt?</l>
+               <l>At whoſe command (which nothing could reſtrain)</l>
+               <l>Seaven thouſand <hi>Roman</hi> Cittizens were ſlain.</l>
+               <pb n="22" facs="tcp:105366:14"/>
+               <l> And when the Senate, being together met,</l>
+               <l>And in the Temple of <hi>Bellona</hi> ſet</l>
+               <l>Within the hearing of thoſe men that groan'd</l>
+               <l>Under the ſword, their miſery bemoan'd:</l>
+               <l>
+                  <hi>Fathers conſcript</hi> (ſayd he) <hi>let us proceed;</hi>
+               </l>
+               <l>
+                  <hi>Theſe are a few ſeditious men that bleed</hi>
+               </l>
+               <l>
+                  <hi>By my appointment.</hi> What he ſaid was true:</l>
+               <l>For they to <hi>Sylla</hi> ſeemed but a few.</l>
+               <l>But we hereafter ſhall from <hi>Sylla</hi> know,</l>
+               <l>What anger we to enemies ſhould ſhow:</l>
+               <l>Eſpecially to thoſe that have forſaken</l>
+               <l>Their fellow Cittizens, and on them taken</l>
+               <l>The name of foes. In the mean time tis cleer,</l>
+               <l>That mercy makes the difference appear</l>
+               <l>Between a King and tyrant: though both have</l>
+               <l>Their guards, yet in one is guarded but to ſave</l>
+               <l>Peace from diſturbance; th' other to reſtrain</l>
+               <l>Great hatred with great fear, and is in pain</l>
+               <l>And jealouſie while he beholds thoſe bands,</l>
+               <l>Though he commit himſelf into their hands;</l>
+               <l>Thus contraries 'gainſt contraries are rear'd.</l>
+               <l>For as he hated is becauſe he's feard,</l>
+               <l>So 'cauſe he's hated hee'll be feard: and then</l>
+               <l>That wicked ſaying, whereby many men</l>
+               <l>Have been deſtroyd, he uſes. Let them hate</l>
+               <l>So that they fear not minding with what weight</l>
+               <l>Rage falls on him, when hatred ſwells too high.</l>
+               <l>For temp'rate fear bold thoughts does qualifie:</l>
+               <l>But when it is continuall, and growes</l>
+               <l>Into extremity, it moves even thoſe</l>
+               <l>That lie upon the ground to riſe, and try</l>
+               <l>With daring boldneſs th' utmoſt remedy.</l>
+               <pb n="23" facs="tcp:105366:14"/>
+               <l> Though ſavage beaſts be compaſt with a net:</l>
+               <l>Yet if the hunters then upon them ſet,</l>
+               <l>They will attempt to flie through what they fled:</l>
+               <l>And furiouſly upon their fear will tred.</l>
+               <l>That reſolution is not to be ſhaken,</l>
+               <l>Which from extream neceſſity is taken.</l>
+               <l>Fear muſt hold forth ſome ſafety, and ſuggeſt</l>
+               <l>More hope then harme: they that would quiet reſt,</l>
+               <l>If they be ſtill in danger, will forbear</l>
+               <l>No hazard, but will ruſh on them they fear.</l>
+               <l>A conſtant guard a peacefull King ſecures,</l>
+               <l>By which the common ſafety he aſſures.</l>
+               <l>A gallant ſouldier being ſtill prepar'd</l>
+               <l>To defend peace, ſtands as his fathers guard.</l>
+               <l>But he that guards a bloody tyrant, ſtands</l>
+               <l>As if he carryed danger in his hands.</l>
+               <l>We cannot in thoſe miniſters confide,</l>
+               <l>Whom we imploy but only to provide</l>
+               <l>Gibbets, and racks, and inſtruments to ſlay:</l>
+               <l>To whom as to wild beaſts men are a prey.</l>
+               <l>A tyrant, lives in more anxietie,</l>
+               <l>Then any of thoſe who he condemnes to dy:</l>
+               <l>For his own conſcience threatens him with rods</l>
+               <l>Of direfull vengeance, both from men and gods.</l>
+               <l>And is reduc'd to that condition,</l>
+               <l>He cannot mend, but muſt in ill goe on.</l>
+               <l>Great cruelty hath this which is the worſt</l>
+               <l>Of villainy, that to proceed tis forc't.</l>
+               <l>And finds no way left open of regreſſe;</l>
+               <l>For wickedneſs muſt ſtrengthen wickedneſſe.</l>
+               <l>And what can be a greater miſery,</l>
+               <l>Then to be wicked through neceſſitie?</l>
+               <pb n="24" facs="tcp:105366:15"/>
+               <l> O wretched hee, but to himſelfe bove all!</l>
+               <l>(And they into an odious guilt muſt fall</l>
+               <l>That pitie him) who uſes his great power</l>
+               <l>With rapines, and with ſlaughters to devour.</l>
+               <l>That every where lookes with ſuſpicious eyes,</l>
+               <l>And fearing weapons, to dire weapons flies:</l>
+               <l>That doubts the faith of neareſt friends, is ſhie</l>
+               <l>Of his own childrens tender piety.</l>
+               <l>And when both what he hath, and will effect</l>
+               <l>He ſo conſiders, that he does reflect</l>
+               <l>Upon his conſcience full of crimes and frights,</l>
+               <l>He often fears, and oftner death invites.</l>
+               <l>And is t' himſelfe more odious then to thoſe,</l>
+               <l>Who by their ſervice are at his diſpoſe.</l>
+               <l>But he on th' other ſide, whoſe care is bent</l>
+               <l>To the whole State, (though it be more intent</l>
+               <l>To one part then an other, yet ther's none,</l>
+               <l>Wheron he does not look as on his own,)</l>
+               <l>Ever inclines to mercy: And when need</l>
+               <l>Requires his ſtricter Juſtice to proceed,</l>
+               <l>He ſhews with what unwillingneſs he's brought</l>
+               <l>To ſharper remedies: whoſe gentle thought</l>
+               <l>No rancour entertains, nor hoſtile rage,</l>
+               <l>But does his power with mild commands aſwage.</l>
+               <l>Who to his ſubjects labours to approve</l>
+               <l>His government, with gentleneſs, and love.</l>
+               <l>And thinks himſelfe happy enough, if hee</l>
+               <l>Communicates his own felicity.</l>
+               <l>Courteous in ſpeach, and eaſie of acceſſe,</l>
+               <l>And that which peoples hearts does moſt poſſeſſe,</l>
+               <l>Retains a clear and loving countenance:</l>
+               <l>And as he ſeekes all juſt deſirs t' advance,</l>
+               <pb n="25" facs="tcp:105366:15"/>
+               <l> So neither is he cruell to unjuſt:</l>
+               <l>But hath a ſpeciall intreſt in the truſt</l>
+               <l>Of all his ſubjects, whom, from inward ſenſe</l>
+               <l>They love, defend, and truly reverence.</l>
+               <l>Of whom the people ſpeak the ſame at home</l>
+               <l>They do abroad, all ſeeking to become</l>
+               <l>Fathers of children: wiſhing barrenneſſe,</l>
+               <l>Cauſed in time of civill wars, might ceaſe:</l>
+               <l>And hoping they their children ſhall ingage</l>
+               <l>The more, becauſe th' are born in ſuch an age.</l>
+               <l>This Prince by his own benefit ſecur'd,</l>
+               <l>Needs not to be in Cittadells immur'd:</l>
+               <l>And though he have his guards, yet they are meant</l>
+               <l>Not for defence, but for an ornament.</l>
+               <l>What is his dutie then? the very ſame</l>
+               <l>Of a good father: who ſometimes does blame</l>
+               <l>His children with mild words, ſomtimes with threats,</l>
+               <l>And them, if they be ſtubborn, ſometimes beats.</l>
+               <l>Who having ſenſe, his ſonne will diſinherit</l>
+               <l>For the firſt fault? unleſſe his lewd demerit</l>
+               <l>By many enormities his patience moves:</l>
+               <l>Unleſſe he feares beyond what he reproves,</l>
+               <l>His reſolution, is not eaſily bent</l>
+               <l>To wipe his name out of his Teſtament.</l>
+               <l>He many tryalls makes, to work upon</l>
+               <l>The doubtfull diſpoſition of his ſonne,</l>
+               <l>Although he fears him gon ſo far paſt ſhame,</l>
+               <l>That he his nature hardly can reclame:</l>
+               <l>But when he finds him deſperat, he flies</l>
+               <l>With reſolution to extremities.</l>
+               <l>Hope makes him uſe all meanes that helpfull are;</l>
+               <l>Extremities accompany diſpaire.</l>
+               <pb n="26" facs="tcp:105366:16"/>
+               <l> What Parents do, a Prince ſhould do the ſame:</l>
+               <l>Whom we the Father of his Country name,</l>
+               <l>Not with vaine flattery: for we apply</l>
+               <l>All other ſirnames to his dignity.</l>
+               <l>We call him happy, great, and royall; uſe</l>
+               <l>All titles, which proud majeſty would chooſe:</l>
+               <l>But Father of his Country makes it known,</l>
+               <l>That he thereby a Fathers power muſt own:</l>
+               <l>Which is a mild authority, confer'd</l>
+               <l>For childrens ſakes, whoſe good ſhould be preferr'd</l>
+               <l>Before his own. A father makes not haſt</l>
+               <l>To cut off his own limbs; and if at laſt</l>
+               <l>He does it, he would them again reſtore:</l>
+               <l>And in the very action does deplore</l>
+               <l>His loſſe ſo long delayd: for when a fact.</l>
+               <l>Is quickly don, tis near a willing act:</l>
+               <l>And too much puniſhing, ſuſpition drawes,</l>
+               <l>That the chaſtiſer does it without cauſe.</l>
+               <l>Within our memory a <hi>Roman</hi> Knight</l>
+               <l>
+                  <hi>Erixo,</hi> was run through in open fight,</l>
+               <l>With writing-pins, becauſe he ſcourg'd his ſonne</l>
+               <l>To death with rods. Nor could the rage begun</l>
+               <l>By fathers, and by children, have been ſtayed,</l>
+               <l>But that <hi>Auguſtus</hi> power the fame alay'd.</l>
+               <l>When <hi>Titus Arius</hi> plainly had deſcri'd,</l>
+               <l>That his ſonne meant to become paricide,</l>
+               <l>He puniſht him with exile: which decree</l>
+               <l>Was much extold by all, by reaſon he</l>
+               <l>Was ſo indulgent, as to be content</l>
+               <l>In ſuch a crime, with only baniſhment,</l>
+               <l>And that an eaſie one; for he confind</l>
+               <l>Him to <hi>Marſelles,</hi> and with all aſſign'd</l>
+               <pb n="27" facs="tcp:105366:16"/>
+               <l> The penſion to him, which he had enjoy'd</l>
+               <l>Before his guilt. This bounty did avoid,</l>
+               <l>(Even in that City where no lewd offence</l>
+               <l>Wants patronage) all thought of innocence</l>
+               <l>In him, whom in ſo great and high debate,</l>
+               <l>His father could condemn, and yet not hate.</l>
+               <l>We by this fit example will now gather,</l>
+               <l>How a good Prince, agrees with a good Father.</l>
+               <l>
+                  <hi>Arius</hi> intending of this crime t' inquite,</l>
+               <l>The counſell of <hi>Auguſtus</hi> did deſire.</l>
+               <l>VVho to his houſe at his requeſt repair'd,</l>
+               <l>And with a private man in counſell ſhar'd:</l>
+               <l>Not ſaying let him come to me, for ſo,</l>
+               <l>The Judgment which from that conſult ſhould grow,</l>
+               <l>VVould have been <hi>Caeſars,</hi> and not his. The cauſe</l>
+               <l>Being diſcuſs'd according to the Lawes,</l>
+               <l>And th' allegations of both parties heard;</l>
+               <l>
+                  <hi>Caeſar,</hi> before his ſentence he declar'd,</l>
+               <l>Caus'd every Judge his verdict to write down,</l>
+               <l>Leaſt th' Emprors Vote might ſeem to be their own.</l>
+               <l>Then ere the bookes were opened, he did ſwear,</l>
+               <l>That he had no intent to be the heire</l>
+               <l>Of wealthy <hi>Arius.</hi> Here ſome abject ſpirit</l>
+               <l>VVill ſay, he feard to ſhew a hope t' inherit</l>
+               <l>The fathers goods, by the ſonnes condemnation.</l>
+               <l>But I think otherwiſe. For in relation</l>
+               <l>To a good conſcience, we ſhould make defence</l>
+               <l>Gainſt ill opinions, by firme confidence:</l>
+               <l>And Princes ought eſpecially to looke</l>
+               <l>Upon their fame; a ſolemn oath he took,</l>
+               <l>That he would not inherit his cſtate.</l>
+               <l>By which meanes <hi>Arius</hi> had that day the ſate</l>
+               <pb n="28" facs="tcp:105366:17"/>
+               <l> To loſe an other heir. But the decree</l>
+               <l>Of <hi>Caeſar,</hi> was declared to be free:</l>
+               <l>Who after he had made it evident</l>
+               <l>That he by his opinion never meant</l>
+               <l>To make a benefit, (a care that ought</l>
+               <l>To be eſtabliſht in a Princes thought)</l>
+               <l>He ſentenced the ſon to be confind,</l>
+               <l>Only according to his fathers minde.</l>
+               <l>Not that he ſhould into the ſack be put,</l>
+               <l>Or thrown forth among ſerpents, or be ſhut</l>
+               <l>In ſome cloſe Goale: nor had he ſo much thought</l>
+               <l>Of him he conſur'd, as of him that brought</l>
+               <l>Him to his counſell. It is fit, ſaid he,</l>
+               <l>That the moſt eaſie puniſhment ſhould be</l>
+               <l>Inflicted by a father on a ſonne,</l>
+               <l>Young, and ſeduced to a crime, not done,</l>
+               <l>But (which to innocence comes very neer)</l>
+               <l>Not entertain'd, But with reluctant fear;</l>
+               <l>Yet that he ought to be remov'd of right</l>
+               <l>Both from the City, and his fathers ſight:</l>
+               <l>O Prince whoſe counſell ſhould be ſtill implor'd</l>
+               <l>By fathers in their need, and be ador'd!</l>
+               <l>O Prince deſerving for his tender care,</l>
+               <l>With all diſtreſſed ſonnes to be co-heire!</l>
+               <l>This, a Kings mercy juſtly may be ſtil'd,</l>
+               <l>That where he preſent is, makes all things mild.</l>
+               <l>And no man ſhould to him appear ſo vile,</l>
+               <l>But he ſhould alſo be in trouble while</l>
+               <l>He ſuffers, who, howere unfortunate,</l>
+               <l>Is yet a part and member of the State.</l>
+               <l>Great Empire may admit compariſon</l>
+               <l>With ſmaller powers: for there are more than one:</l>
+               <pb n="29" facs="tcp:105366:17"/>
+               <l> Princes their ſubjects rule, fathers beare ſway</l>
+               <l>Over their children, Maſters to obay</l>
+               <l>Do teach their Schollers, Captains to their bands</l>
+               <l>Of ſoldiers, daily ſend forth their commands.</l>
+               <l>Who would not blame that father, which for light</l>
+               <l>Offences does his children beat and fright?</l>
+               <l>Which of thoſe tutors hath the worthier parts,</l>
+               <l>Or is moſt fit to teach the liberall arts?</l>
+               <l>He that his ſchollers fleas, becauſe they ſtick</l>
+               <l>Upon ſome words, their ſight not being quick:</l>
+               <l>Becauſe their memories do ſometimes faile:</l>
+               <l>Or he that rather chooſes to prevaile</l>
+               <l>With admonitions, and to reprehend</l>
+               <l>With modeſty, thereby to make them mend?</l>
+               <l>A Captaine that too cruell is, will make</l>
+               <l>His ſoldiers out of hatred him forſake,</l>
+               <l>And juſtly too; for why ſhould we forbear</l>
+               <l>To be to beaſts, yet not to men, ſevere?</l>
+               <l>A skilful rider when he tames a horſe,</l>
+               <l>Seekes not to do't with frequent blowes, and force,</l>
+               <l>But with ſoft ſtroking, and a gentle hand,</l>
+               <l>Leſt he grow reſtie, and refuſe command.</l>
+               <l>A hunter, trayning up young dogs to hunt,</l>
+               <l>Makes uſe of older hounds which have been wont</l>
+               <l>To trace wild beaſts: nor does he often rate</l>
+               <l>The young ones, leſt their mettle ſhould abate</l>
+               <l>By a degenerate feare, or make them run</l>
+               <l>Quite from the reſt, their maſters rage to ſhun.</l>
+               <l>Nay duller cattle that to toyle are bred,</l>
+               <l>When they are too much goard, and threatned,</l>
+               <l>The yoake and burthen will decline. No creature</l>
+               <l>Is ſo untractable as man by nature:</l>
+               <pb n="30" facs="tcp:105366:18"/>
+               <l> And therefore he ſhould alwayes be prepar'd</l>
+               <l>VVith greater induſtry, and be more ſpar'd.</l>
+               <l>For whats more fooliſh than to be aſham'd</l>
+               <l>Of rage, when beaſts and dogs are to be tam'd?</l>
+               <l>Yet think that man by terror ſhould be forc't,</l>
+               <l>As if a mans condition were the worſt.</l>
+               <l>VVe cure diſeaſes without anger: this</l>
+               <l>Diſeaſe of minde not to be cured is</l>
+               <l>By hatred to the patient: he is ſure</l>
+               <l>No good Phyſitian who diſpaires to cure.</l>
+               <l>He by whom ſubjects ought to be protected,</l>
+               <l>Should gently deale with thoſe who are affected</l>
+               <l>In minde: and not the ſignes of death declare,</l>
+               <l>And ſuddainly turne hope into deſpaire.</l>
+               <l>But he ſhould ſtrive with vices, and contend:</l>
+               <l>Some for their error he ſhould reprehend,</l>
+               <l>And others with ſoft remedies beguile,</l>
+               <l>Deceiving, but yet curing them the while.</l>
+               <l>And not to heale alone muſt be the care</l>
+               <l>Of Princes, but to leave no ſhamefull ſcar.</l>
+               <l>Severe and cruell puniſhments can bring</l>
+               <l>At no time any glory to a King:</l>
+               <l>For who his power will queſtion? but he gaines</l>
+               <l>Higheſt renown, when he his power reſtrains:</l>
+               <l>VVhen many he preſerves from others rage,</l>
+               <l>And againſt no man does his own engage.</l>
+               <l>It is a praiſe to bear a gentle hand</l>
+               <l>Over our ſlaves: for even in that command</l>
+               <l>VVe ought to weigh, not what the lawes permit,</l>
+               <l>But what for us in equity is ſit.</l>
+               <l>VVhich bids us ſpare our vaſſales, and with-hold</l>
+               <l>Our rage from ſlaves, that are both bought and ſold.</l>
+               <pb n="31" facs="tcp:105366:18"/>
+               <l> How much more equitable is it then,</l>
+               <l>Not to make ſlaves of free and honeſt men?</l>
+               <l>Who though inferiours do not owe ſubjection</l>
+               <l>Unto thy will, but unto thy protection.</l>
+               <l>A ſtatue is a refuge for a ſlave:</l>
+               <l>And though ore him full power by law we have,</l>
+               <l>Yet there is ſomething in the creatures law,</l>
+               <l>That in behalfe of man keeps man in awe.</l>
+               <l>Who did not <hi>Vedius Pollio</hi> as much hate</l>
+               <l>As did his ſlaves, becauſe he us'd to bait</l>
+               <l>His Lampreys with mans fleſh? when the leaſt fault</l>
+               <l>Was by a ſave committed, he was caught</l>
+               <l>And thrown into his fiſh pond, and expos'd,</l>
+               <l>As it had been to Serpents there inclos'd.</l>
+               <l>O wretch deſerving to be ſtucken dead</l>
+               <l>A thouſand times! whether that he ſo fed</l>
+               <l>The Lampreys which he after meant to eat,</l>
+               <l>Or kept them only to make men their meat.</l>
+               <l>As cruell Lords when they abroad are ſeen</l>
+               <l>Are pointed at, and do provoke the ſpleen</l>
+               <l>Of all beholders: ſo the infamy</l>
+               <l>Of cruell Princes far and near does fly,</l>
+               <l>And the unceſſant hatred of their crimes</l>
+               <l>Remaines upon record to after times:</l>
+               <l>Were it not better ſuch had not been borne,</l>
+               <l>Than borne to publike bane? what can adorne</l>
+               <l>A man of power like mercy, in what way</l>
+               <l>So ever he is ſet to beare the ſway?</l>
+               <l>For we muſt needs confeſſe that what proceeds</l>
+               <l>From greateſt power, moſt admiration breeds,</l>
+               <l>Which cannot hurtfull be unleſſe it ſwerve</l>
+               <l>From natures law, and will not that obſerve.</l>
+               <pb n="32" facs="tcp:105366:19"/>
+               <l> For nature firſt ordain'd a King; as we</l>
+               <l>In other creatures, and in Bees may ſee.</l>
+               <l>Whoſe King is centr'd in the ſafeſt place,</l>
+               <l>And has t' himſelfe a rome of larger ſpace.</l>
+               <l>Hes alſo freed from labour, and remaines</l>
+               <l>As a count-taker of the others paines.</l>
+               <l>And as good orders kept whille he's alive,</l>
+               <l>So does his death wholy diſſolve the hive.</l>
+               <l>Nor do they ever ſuffer more than one,</l>
+               <l>Which for his courage choſen is alone.</l>
+               <l>Beſides as his condition is the beſt,</l>
+               <l>So is his ſhape and forme above the reſt:</l>
+               <l>But the chiefe difference is, that though by nature</l>
+               <l>A Bee appeares a very angry Creature,</l>
+               <l>And to the modell of it's body, prone</l>
+               <l>To fight on any provocation,</l>
+               <l>VVith ſo much furiouſneſſe, that it is found</l>
+               <l>To leave the ſting behind it in the wound.</l>
+               <l>Yet contrary to all the reſt, the King,</l>
+               <l>Is ever found to be without a ſting.</l>
+               <l>For nature would that he ſhould heither bear</l>
+               <l>Malice, nor take revenge, that coſts ſo deare:</l>
+               <l>Shee him of an offenſive ſting bereft,</l>
+               <l>VVhereby his anger ſhee unarmed left.</l>
+               <l>This is a maine example to great Kings,</l>
+               <l>For nature is accuſtom'd in ſmall things</l>
+               <l>T' exalt her ſelfe, who unto man preſents</l>
+               <l>From flighteſt ſubjects, weighty'ſt arguments.</l>
+               <l>VVhy ſhould we therefore be aſham'd to learne</l>
+               <l>From little creatures? ſince it does concerne</l>
+               <l>A man ſo much the more his minde to charme</l>
+               <l>VVith temprance, as 'tis apter to do harme.</l>
+               <pb n="33" facs="tcp:105366:19"/>
+               <l> For my part I could wiſh that law deriv'd</l>
+               <l>To men, that they of anger were depriv'd,</l>
+               <l>Together with their ſwords: and that they might</l>
+               <l>Do hurt but once: not make their hatred fright</l>
+               <l>With others ſtrength. Fury would ſoone decay,</l>
+               <l>Had it no other hand to help to ſlay,</l>
+               <l>And that it could not be reveng'd, unleſſe</l>
+               <l>It hazarded it ſelfe in the ſucceſſe.</l>
+               <l>Nor is a Tyrants danger thereby clear'd,</l>
+               <l>For he muſt fear as much as he'd be fear'd:</l>
+               <l>And muſt obſerve the hands of all, and though</l>
+               <l>He be not aim'd at, muſt not think it ſo,</l>
+               <l>But be ſuſpicions ſlave without releaſe;</l>
+               <l>Nor can his fear for any moment ceaſe:</l>
+               <l>Why ſhould a man ſo ſick a life indure,</l>
+               <l>When he may lead, and be in that ſecure,</l>
+               <l>A harmleſſe life? and when he may employ</l>
+               <l>His ſaving power to all the peoples joy.</l>
+               <l>He errs that thinks a King may be ſafe there,</l>
+               <l>Where nothing from a King is ſafe. Tis cleare,</l>
+               <l>Security does alwayes moſt relie,</l>
+               <l>Upon a mutuall ſecuritie.</l>
+               <l>There is no need of ſtrong and lofty Towers,</l>
+               <l>Built on high hills, t' oppoſe offenſive powers:</l>
+               <l>To dig huge mountaines round, to make them ſteep:</l>
+               <l>Or into double trenched holds to creep.</l>
+               <l>Mercy guards Kings wheres'ever they reſort.</l>
+               <l>The love of ſubjects is the only fort</l>
+               <l>That is impregnable. What can befall</l>
+               <l>A King like this, to be pray'd for by all?</l>
+               <l>Not only when an Officer is near:</l>
+               <l>But when no other preſent is to hear.</l>
+               <pb n="34" facs="tcp:105366:20"/>
+               <l> And if his health a little be impair'd,</l>
+               <l>Fear and not hope of change is then declar'd</l>
+               <l>By all his ſubjects: who, his ſafty prize:</l>
+               <l>And all that's theirs compar'd with that diſpiſe,</l>
+               <l>Who think no accident can him betide,</l>
+               <l>Which they 'tween him and them muſt not divide.</l>
+               <l>Mean time he by theſe daily arguments</l>
+               <l>Of mutuall goodneſſe, hereunto conſents:</l>
+               <l>That, as each vertuous prince hath ſtill mantain'd,</l>
+               <l>He for the State, not that for him's ordain'd.</l>
+               <l>Who againſt this man miſchiefe dares attempt?</l>
+               <l>Or (if it could be) would not him exempt</l>
+               <l>From all miſ-haps, under whom Juſtice, Peace,</l>
+               <l>Safty, and honour floriſh and increaſe?</l>
+               <l>Through whom the City with great riches fraught</l>
+               <l>Hath all the benefits that can be thought:</l>
+               <l>Which viewing him like joy does apprehend,</l>
+               <l>As if the gods vouchſafed to deſcend:</l>
+               <l>Looking upon their Sovereign with an eye,</l>
+               <l>Of reverence, and devotion. For why?</l>
+               <l>Should he not be accounted to be near</l>
+               <l>The gods themſelves, that does their nature bear?</l>
+               <l>And is like them both mild and liberall,</l>
+               <l>His power imploying to the good of all.</l>
+               <l>A King chaſtiſes out of two reſpects,</l>
+               <l>When either he ſome great offence detects,</l>
+               <l>T' have been committed 'gainſt himſelfe, or when</l>
+               <l>It is committed againſt other men.</l>
+               <l>I'll firſt clear that wherein himſelfe's concern'd.</l>
+               <l>for moderation is more hardly learn'd</l>
+               <l>When his revenge to wrath is more a debter,</l>
+               <l>Than to example, whereby men grow better.</l>
+               <pb n="35" facs="tcp:105366:20"/>
+               <l> Tis here ſuperfluous to be put in minde</l>
+               <l>To ſhun a light beleife, to ſeek to finde</l>
+               <l>And know the truth, to favour innocence,</l>
+               <l>Whereby the Judge may ſeem to have a ſenſe</l>
+               <l>Of his own fame, which elſe would be as far</l>
+               <l>In danger, as the priſoner at the bar;</l>
+               <l>But this is found to be the propertie</l>
+               <l>Of Juſtice, rather than of Clemency.</l>
+               <l>We now adviſe that paſſions be ſuppreſt</l>
+               <l>In provocations that are manifeſt:</l>
+               <l>And (if it may be ſafe) to be content</l>
+               <l>To pardon and remit the puniſhment.</l>
+               <l>And to be exorable in his own,</l>
+               <l>Not in an others injury alone.</l>
+               <l>For as to bounty, it no whit relates,</l>
+               <l>To be profuſe in other mens eſtates:</l>
+               <l>And as he's liberall that alwayes throwes</l>
+               <l>That from himſelfe, which he on men beſtowes.</l>
+               <l>So does not Clemency to him belong,</l>
+               <l>VVho is indulgent in anothers wrong.</l>
+               <l>But he is mercyfull, that does refraine</l>
+               <l>From a revenge, in midſt of his own paine.</l>
+               <l>VVho knows his minde arriv'd to the full height,</l>
+               <l>VVhen he in greateſt power a wrong can ſlight.</l>
+               <l>And thinks a Prince with higheſt glory crown'd,</l>
+               <l>VVhen oft provokt, he ſtill is gentle found.</l>
+               <l>Two benefits ſeem from revenge t' ariſe:</l>
+               <l>Him that hath wrong it either ſatisfies,</l>
+               <l>Or is a ſafety to the reſt. A Prince</l>
+               <l>Enjoys a fortune of more conſequence,</l>
+               <l>Than that he ſhould on ſuch a helpe depend:</l>
+               <l>And his known power much farther does extend,</l>
+               <pb n="36" facs="tcp:105366:21"/>
+               <l> And is more clear, than that he ſhould be faine</l>
+               <l>To make it clearer by an others bane.</l>
+               <l>This my diſcourſe is of a Prince intended,</l>
+               <l>That is by his inferiours offended.</l>
+               <l>For where he finds thoſe that his equalls were</l>
+               <l>Standing beneath him, his revenge is there</l>
+               <l>A ſlave, a ſerpent, and a dart have ſlain</l>
+               <l>A King, but no man juſtly can maintaine</l>
+               <l>He ſaved any, but that he in power</l>
+               <l>To him he ſav'd, muſt be ſuperiour;</l>
+               <l>And therefore he a noble uſe ſhould make</l>
+               <l>Of what a<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ity the gods beſtowd, power both to take</l>
+               <l>And to give life: and chiefly towards thoſe</l>
+               <l>VVho formerly his greatneſs did oppoſe.</l>
+               <l>For having got the ſoveraignty, tis proofe</l>
+               <l>That he thereby hath got revenge enough:</l>
+               <l>And hath attaind to all that can be meant,</l>
+               <l>By the full benefit of puniſhment.</l>
+               <l>For he that owes his life, hath loſt it: he</l>
+               <l>That is compelld to beg upon his knee</l>
+               <l>His life and Kingdom, muſt be fain to live</l>
+               <l>A Trophy to his name that life did give:</l>
+               <l>And being ſafe, he does his fame more right,</l>
+               <l>Than if he had been carry'd from his ſight:</l>
+               <l>For he a daily ſpectacle remaines,</l>
+               <l>By which the vertue of an other gaines</l>
+               <l>An endleſſe fame: whereas had he been lead</l>
+               <l>In triumph, he had quickly vaniſhed.</l>
+               <l>And if he ſafely could his power reſtore,</l>
+               <l>And give him back all that he loſt before,</l>
+               <l>His honour would exceedingly increaſe:</l>
+               <l>And he would manifeſt by that releaſe,</l>
+               <pb n="37" facs="tcp:105366:21"/>
+               <l> That he deſir'd to take no other thing,</l>
+               <l>But only glory from a vanquiſht King.</l>
+               <l>This is to triumph ore his victory,</l>
+               <l>And to declare to all the world that he</l>
+               <l>Found nothing in a conquer'd hand, that might</l>
+               <l>Th' acceptance of a conqueror invite.</l>
+               <l>But as for Citizens, and men unknown,</l>
+               <l>And others of a mean condition,</l>
+               <l>No vengeance ſhould be taken upon ſuch,</l>
+               <l>Leſt honour ſeem thereby to ſtoop too much.</l>
+               <l>Some thou muſt pardon willingly, to ſome</l>
+               <l>Thou muſt diſdaine that thy revenge ſhould come:</l>
+               <l>Whom, though they vex, thou muſt forbear no leſſe</l>
+               <l>To kill; than we ſome vermin for their filthineſſe.</l>
+               <l>But touching thoſe which in the publicke eye</l>
+               <l>May be condemn'd, or ſet at liberty,</l>
+               <l>It will be fit, that thou ſhouldſt not refuſe</l>
+               <l>Thy wonted mercy towards them to uſe.</l>
+               <l>But let us paſſe to others injuries,</l>
+               <l>In puniſhing whereof the law relies</l>
+               <l>On theſe three things, which Princes ſhould intend,</l>
+               <l>That them whom they chaſtiſe they may amend;</l>
+               <l>Or others by their ſad example cure;</l>
+               <l>Or elſe by cutting off the bad, aſſure</l>
+               <l>The ſafety of the reſt. The firſt will be</l>
+               <l>With ſmaller puniſhments reform'd by thee.</l>
+               <l>For having ſomething left whereto to truſt,</l>
+               <l>They in their future wayes will be more juſt:</l>
+               <l>Since there is little reaſon to take care</l>
+               <l>Of honour, or eſtate that's in deſpaire.</l>
+               <l>And tis a kind of freedome from the law</l>
+               <l>T' have nought to loſe; ſuch men ſtand not in aw:</l>
+               <pb n="38" facs="tcp:105366:22"/>
+               <l> And for the reſt, a Cities manners are</l>
+               <l>Sooneſt reform'd, when puniſhments be rare.</l>
+               <l>For where offenders grow to a multitude,</l>
+               <l>A cuſtome of offending does intrude.</l>
+               <l>And frequent condemnations will abate</l>
+               <l>The infamy of lewdneſſe in a State.</l>
+               <l>And rigour, which is held the cheife redreſſe,</l>
+               <l>Is by continuance regarded leſſe.</l>
+               <l>A Prince reformes ill manners, and does heal</l>
+               <l>Vices more eaſily in the common-weal,</l>
+               <l>VVhen he is mild and patient, not as though</l>
+               <l>He did approve them, but thereby to ſhow</l>
+               <l>That he is brought with very much regret,</l>
+               <l>And quite againſt his will his ſword to whet.</l>
+               <l>The very mercie of a Prince revokes</l>
+               <l>Offenders from their uſuall crimes, as ſtrokes</l>
+               <l>VVhich from a mild and gentle hand proceed,</l>
+               <l>Do commonly more ſhame and ſorrow breed.</l>
+               <l>Beſides thou ſeeſt how often men are led</l>
+               <l>T' offend, though they be often puniſhed.</l>
+               <l>Thy father more employd the fatall ſack</l>
+               <l>In five yeares ſpace, than they who ſhall look back</l>
+               <l>To all time paſt, will finde was ever don:</l>
+               <l>For children did not into vice ſo run,</l>
+               <l>As to commit the worſt of crimes, untill</l>
+               <l>The law made that a crime. It was the will,</l>
+               <l>And prudence of thoſe famous men that were</l>
+               <l>Moſt skild in natures ſecrets, to forbeare</l>
+               <l>To mention that deteſted wickedneſſe,</l>
+               <l>VVhich no ſtraind impudence knew how t' expreſs,</l>
+               <l>Leſt by ordaining puniſhment for it,</l>
+               <l>T' had ſhew'd that ſome might ſuch a crime commit.</l>
+               <pb n="39" facs="tcp:105366:22"/>
+               <l> By that Law therefore paricides were taught,</l>
+               <l>And puniſhment that wickedneſſe firſt brought.</l>
+               <l>All piety fell quickly to the ground,</l>
+               <l>After more ſacks then gallowſes were found.</l>
+               <l>That cities thought to goodneſſe much addicted,</l>
+               <l>Where puniſhments but rarely are inflicted.</l>
+               <l>Integrity is therein underſtood</l>
+               <l>To be retained as a publike good.</l>
+               <l>A Common-wealth that does ſo far proceed,</l>
+               <l>To think it ſelfe ſincere, is ſo indeed.</l>
+               <l>And is offended more with them that fall</l>
+               <l>From publike thrift, becauſe their numbers ſmall.</l>
+               <l>Tis dangerous, believe me, to declare</l>
+               <l>To any Citie, how much ill men are</l>
+               <l>In number more than good. By a decree</l>
+               <l>Slaves were to be diſtinguiſht from the free</l>
+               <l>By their apparell. But it ſoon appeard</l>
+               <l>What danger to the State was to be fear'd,</l>
+               <l>If to our ſlaves our number once were known.</l>
+               <l>So ſhould we fear, if thou ſhould'ſt pardon none.</l>
+               <l>T' would to the City ſoon be manifeſt</l>
+               <l>How much the lewder part out weigh'd the reſt.</l>
+               <l>By many puniſhments like ſhame befalls</l>
+               <l>A Prince, as doth by many funeralls</l>
+               <l>Befall Phyſitians. Moſt men have a mind</l>
+               <l>By nature ſtubburne, to reſiſt inclind.</l>
+               <l>It ſtrives more when we chafe, than when we ſawn;</l>
+               <l>And followes far more eaſily than tis drawn:</l>
+               <l>As generous horſes ſooner are reclam'd</l>
+               <l>By gentle bits, ſo willing minds are fram'd</l>
+               <l>To follow mercy of their own accord.</l>
+               <l>To which the City freely will afford</l>
+               <pb n="40" facs="tcp:105366:23"/>
+               <l> Kinde entertainment, and thereof accept</l>
+               <l>As of a thing moſt worthy to be kept.</l>
+               <l>And therefore in this way more profit will</l>
+               <l>Ariſe, for cruelty's no human ill.</l>
+               <l>It is a beſtiall fury to delight</l>
+               <l>In blood and ſlaughter, and to throw off quite</l>
+               <l>Th' eſſentiall qualities of humane nature,</l>
+               <l>And tranſmigrate into a ſavage creature.</l>
+               <l>Here I (O <hi>Alexander</hi>) faine would know</l>
+               <l>What difference tis <hi>Lyſimacus</hi> to throw</l>
+               <l>Forth to a Lyon, or elſe not forbear</l>
+               <l>With thine own teeth in pieces him to teare:</l>
+               <l>That throat is thine, that cruelty thine own.</l>
+               <l>How heartily thou'd'ſt wiſh thy nailes were grown</l>
+               <l>To Talons, and that thou could'ſt ſtretch thy jawes,</l>
+               <l>To devour thoſe thou catcheſt in thy pawes.</l>
+               <l>We wiſh not that thy hand, (thy beſt friend's bain)</l>
+               <l>Should mercy towards any entertaine.</l>
+               <l>Or thy fierce heart (deſtructive to mankind.)</l>
+               <l>Should without blood-ſhed ſatisfaction finde.</l>
+               <l>Tis mercy cal'd when he his friends would kill,</l>
+               <l>That men be brought to execute his will:</l>
+               <l>This renders rage abominable, when</l>
+               <l>It firſt breakes wonted, then the bounds of men.</l>
+               <l>It ſeekes new torments, ſtudies ſeverall wayes,</l>
+               <l>And Inſtruments of cruelty diſplayes,</l>
+               <l>Whereby it varies, and inlarges pain,</l>
+               <l>And fetches paſtime out of human bane.</l>
+               <l>That dire diſeaſe of minde comes to the height,</l>
+               <l>Of madneſſe, when in blood it takes delight.</l>
+               <l>And hath ſo far proceeded, that it can</l>
+               <l>Take pleaſure in the ruine of a man.</l>
+               <pb n="41" facs="tcp:105366:23"/>
+               <l> Deſtruction, hatred, poyſon, ſwords attend</l>
+               <l>At this mans back to bring him to his end.</l>
+               <l>By whom as many dangers ſtill are feard,</l>
+               <l>As he for many often hath prepard.</l>
+               <l>Somtimes from private plots, at other times</l>
+               <l>Through open deteſtation of his crimes.</l>
+               <l>For light and private miſcheifes doe not raiſe</l>
+               <l>Whole Cities; but when wickedneſs diſplaies</l>
+               <l>It ſelfe with rage, and threatens all, tis met</l>
+               <l>By multitudes, and round about beſet;</l>
+               <l>Small Serpents creep away: When one's beheld</l>
+               <l>So great, that tis into a monſter ſweld:</l>
+               <l>When with its breath it poyſons common ſprings,</l>
+               <l>And where it goes, deſtroyes, and venome flings:</l>
+               <l>It is with croſſe-bows ſhot at. Petty ills,</l>
+               <l>Deceive and ſcape, not much againſt our wills,</l>
+               <l>But great ones are oppos'd. So is a houſe</l>
+               <l>Not ſhun'd by any, nor thought dangerous,</l>
+               <l>VVhen one alone is ſick. But if 't appeare</l>
+               <l>By frequent deaths to be the Plague, a fear</l>
+               <l>Poſſeſſes the whole Town; from whence men flie,</l>
+               <l>And to the gods with lifted hands do cry.</l>
+               <l>So when a fire a private houſe does ſeaſe,</l>
+               <l>Servants and neighbours bringing water, eaſe</l>
+               <l>The reſt of trouble, quenching it alone.</l>
+               <l>But when the flame is to a vaſtneſſe grown,</l>
+               <l>And many buildings burnt, it is put out</l>
+               <l>With devaſtion of what's round about.</l>
+               <l>Sometime the cruelty of private men</l>
+               <l>Hath been reveng'd by ſervile hands, even when</l>
+               <l>Their death was certaine. People, Nations,</l>
+               <l>And all that have to Tyrants had relations.</l>
+               <pb n="42" facs="tcp:105366:24"/>
+               <l> And have endur'd, or feard their cruell rage,</l>
+               <l>Have in their ruine ventur'd to ingage.</l>
+               <l>Their very guards have riſen up at length,</l>
+               <l>And all the hatred; cruelty, and ſtrength</l>
+               <l>Of impiouſneſſe, which they by them were taught,</l>
+               <l>They on the Authors back again have brought.</l>
+               <l>For what good expectation can be had</l>
+               <l>From them; whom we inſtructed to be bad?</l>
+               <l>Iniquity obays not long, nor will</l>
+               <l>Be alwayes at command in doing ill.</l>
+               <l>But lets imagine cruelty ſecure:</l>
+               <l>Yet what a Kingdom muſt that Prince indure?</l>
+               <l>A Realme that like a City ſack't, does wear</l>
+               <l>The diſhiall face of univerſall fear.</l>
+               <l>Where all's confus'd and ſad, and no delight</l>
+               <l>Can be enjoy'd without continuall fright.</l>
+               <l>Where feaſts afford no ſafety, but among</l>
+               <l>His cups, each muſt ſet watches on his tongue:</l>
+               <l>Nor publike ſhew wherein occaſion's ſought</l>
+               <l>T' have men both into crimes and dangers brought.</l>
+               <l>And though they be ſet forth with great expence,</l>
+               <l>With wealth of Kings, by men of excellence.</l>
+               <l>Yet upon whom ſhould folly ſo prevaile,</l>
+               <l>To ſeeke to goe from ſports into a Gaile?</l>
+               <l>What wickedneſſe is this (good Gods) to ſlay,</l>
+               <l>And ſuffer cruell rage to bear ſuch ſway,</l>
+               <l>As not to have a ſenſe of human paines,</l>
+               <l>And to delight in ratling of chaines,</l>
+               <l>And in be-heading men? to come no where</l>
+               <l>Without much blood-ſhed, bringing terror there.</l>
+               <l>How could our lives be worſe if we were rul'd</l>
+               <l>By Lyons, and by Bears? or if we ſhould</l>
+               <pb n="43" facs="tcp:105366:24"/>
+               <l> Be governed by ſerpents, and each creature</l>
+               <l>That lives by blood, and abhors man by nature.</l>
+               <l>Theſe void of reaſon and condemn'd by us</l>
+               <l>For cruelty are never furious</l>
+               <l>To their own kinde: 'mong them ſimilitude</l>
+               <l>Is ſafe and is not bloodily purſu'd.</l>
+               <l>But among men not kindred is excus'd,</l>
+               <l>Allies like ſtrangers are by Tyrants us'd,</l>
+               <l>That by particular ſlaughters they may grow,</l>
+               <l>Whole kingdomes by degrees to overthrow.</l>
+               <l>Who, to ſire Towns, old Cities to devoure,</l>
+               <l>And plow up the foundations, think it power.</l>
+               <l>And count it not imperiall to kill</l>
+               <l>But now and then: and that unleſs they fill</l>
+               <l>Themſelves with blood of many men ordaind</l>
+               <l>T' indure the ſtroke, think cruelty reſtraind.</l>
+               <l>But he that many ſaves, and does reſtore</l>
+               <l>To life ſuch as lie gaſping at deaths dore,</l>
+               <l>Merits by Clemency a high renown,</l>
+               <l>And worthily deſerves the Civique Crown.</l>
+               <l>Then which no ornament can more beſeem</l>
+               <l>A Princes head, or gain him more eſteem:</l>
+               <l>Upon whoſe Gate this Motto is ingrav'd</l>
+               <l>In Characters, <hi>For having Subjects ſav'd:</hi>
+               </l>
+               <l>No Chariot red with blood of barbrous Kings,</l>
+               <l>No ſpoyle of conquered foes ſuch honour brings:</l>
+               <l>Tis divine power to ſave by Troops in view</l>
+               <l>Of all the world: but many to purſue</l>
+               <l>VVith cruelty, and that without reſpect,</l>
+               <l>Of fire and ſword, the power is, and th' effect.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
